@@ -1,0 +1,17 @@
+{
+  "name": "learnnpm",
+  "version": "1.0.1",
+  "description": "I am learning npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "xiaqpohr",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "C:\\nodeSchoole\\how-to-npm"
+  }
+}
