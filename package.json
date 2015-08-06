@@ -1,8 +1,8 @@
 {
-  "name": "my-nodeSchool",
+  "name": "my-nodeschool",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "description": "learning node for fun for food for future!",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +15,19 @@
     "request": "^2.60.0",
     "split2": "^1.0.0",
     "stream-combiner": "^0.2.2",
+    "tape": "^4.0.2",
     "tar": "^2.1.1",
     "through2": "^2.0.0",
     "trumpet": "^1.7.1",
     "websocket-stream": "^1.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiawpohr/my-nodeSchool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xiawpohr/my-nodeSchool/issues"
+  },
+  "homepage": "https://github.com/Xiawpohr/my-nodeSchool#readme"
 }
